@@ -1,0 +1,1 @@
+- https://surdeanu.cs.arizona.edu/mihai/teaching/ista555-fall13/readings/PennTreebankTagset.html<br/> The University of Pennsylvania (Penn) Treebank Tag-set
